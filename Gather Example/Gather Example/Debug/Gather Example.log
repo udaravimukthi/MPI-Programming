@@ -1,0 +1,3 @@
+﻿  Gather Example.cpp
+C:\Users\UDARA VIMUKTHI\source\repos\Gather Example\Gather Example\Gather Example.cpp(19,13): warning C4101: 'stat': unreferenced local variable
+  Gather Example.vcxproj -> C:\Users\UDARA VIMUKTHI\source\repos\Gather Example\Debug\Gather Example.exe
