@@ -1,0 +1,6 @@
+﻿  174083C_TH2_MPI_Matrix_Matrix_Mul.cpp
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul.cpp(46,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul.cpp(47,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul\174083C_TH2_MPI_Matrix_Matrix_Mul.cpp(24,21): warning C4101: 'nprocs': unreferenced local variable
+  174083C_TH2_MPI_Matrix_Matrix_Mul.vcxproj -> C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Matrix_Matrix_Mul\Debug\174083C_TH2_MPI_Matrix_Matrix_Mul.exe
