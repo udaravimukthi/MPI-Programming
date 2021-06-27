@@ -1,0 +1,3 @@
+﻿  174083C_TH2_MPI_Merge_Sort_Sequential.cpp
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Merge_Sort_Sequential\174083C_TH2_MPI_Merge_Sort_Sequential\174083C_TH2_MPI_Merge_Sort_Sequential.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  174083C_TH2_MPI_Merge_Sort_Sequential.vcxproj -> C:\Users\UDARA VIMUKTHI\source\repos\174083C_TH2_MPI_Merge_Sort_Sequential\Debug\174083C_TH2_MPI_Merge_Sort_Sequential.exe
