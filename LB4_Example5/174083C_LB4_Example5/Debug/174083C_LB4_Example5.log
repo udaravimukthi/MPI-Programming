@@ -1,0 +1,9 @@
+﻿  174083C_LB4_Example5.cpp
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(19,22): warning C4101: 'dest': unreferenced local variable
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(26,14): warning C4101: 'req': unreferenced local variable
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(19,28): warning C4101: 'source': unreferenced local variable
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(19,36): warning C4101: 'rc': unreferenced local variable
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(19,40): warning C4101: 'count': unreferenced local variable
+C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\174083C_LB4_Example5\174083C_LB4_Example5.cpp(19,56): warning C4101: 'j': unreferenced local variable
+  174083C_LB4_Example5.vcxproj -> C:\Users\UDARA VIMUKTHI\source\repos\174083C_LB4_Example5\Debug\174083C_LB4_Example5.exe
